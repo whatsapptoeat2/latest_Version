@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="com.example.whatsuptoeat.VerwaltenActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/VerwaltenActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="152" x="604" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.example.whatsuptoeat.NeuerEintragActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/NeuerEintragActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="230" x="1336" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.example.whatsuptoeat.EinkaufskorbActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/EinkaufskorbActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="230" x="796" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.example.whatsuptoeat.MySQLiteHelper" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/MySQLiteHelper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="216" x="1471" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.example.whatsuptoeat.RezeptAngelegtActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/RezeptAngelegtActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="230" x="1066" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.example.whatsuptoeat.Rezept" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/Rezept.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="131" x="1876" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.example.whatsuptoeat.RezeptDataSource" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/RezeptDataSource.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="181" x="1471" y="984"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.example.whatsuptoeat.SucheActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/SucheActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="230" x="2047" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.example.whatsuptoeat.ListeAnzeigenActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/ListeAnzeigenActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="230" x="1606" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.example.whatsuptoeat.MainActivity" project="WhatsAppToEat" 
+    file="/WhatsAppToEat/src/com/example/whatsuptoeat/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="208" x="2317" y="629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="11">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="12" name="datasource"/>      
+      <multiplicity id="13" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="14">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="15" name="datasource"/>      
+      <multiplicity id="16" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="17">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="18" name="dbHelper"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
